@@ -1,3 +1,4 @@
+Please use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases) for this mod
 # CSnS-patcher
 Modded client for Cruelty Squad
 ## Features
