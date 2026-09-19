@@ -9,3 +9,5 @@ Modded client for Cruelty Squad
 * Decreased lag spikes
 * Toggle for jittery physics
 * Mod loader included
+## Source code
+Sorry! This project was my first touch with Godot decompilation, and I didn't keep track of which files I've changed, so sadly I have no [easy] way of making it open source for now.
