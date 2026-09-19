@@ -2,6 +2,7 @@ Please use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/release
 # CSnS-patcher
 Modded client for Cruelty Squad
 ## Features
+* Custom level support
 * Loadout saving
 * Endless extra level
 * Faster level loading
